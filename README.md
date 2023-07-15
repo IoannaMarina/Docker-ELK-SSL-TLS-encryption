@@ -3,7 +3,8 @@ ELK Stack Deployment
 
 This repository contains the necessary configuration files to deploy an ELK (Elasticsearch, Logstash, and Kibana) stack with additional components like Metricbeat and Filebeat, secured with TLS/SSL certificates. The TLS/SSL certificates provide encryption and authentication, ensuring secure communication between the various components of the ELK stack.
 
-![image](https://github.com/IoannaMarina/Docker-ELK-SSL-TLS-encryption/assets/56870509/20c5d3ac-2c6f-4df5-b5e9-e3859dddf5b4)
+
+![image](https://github.com/IoannaMarina/Docker-ELK-SSL-TLS-encryption/assets/56870509/555fabc2-6d31-4afb-adf2-20ea740e1ec4)
 
 
 Prerequisites:
