@@ -6,7 +6,7 @@ This repository contains the necessary configuration files to deploy an ELK (Ela
 
 ![architecture](https://github.com/IoannaMarina/Docker-ELK-SSL-TLS-encryption/assets/56870509/af173833-92f9-4621-8ff4-9aa3903f57f8)
 
-<img src=https://github.com/IoannaMarina/Docker-ELK-SSL-TLS-encryption/assets/56870509/af173833-92f9-4621-8ff4-9aa3903f57f8" width="100" height="100">
+<img src="[https://github.com/favicon.ico](https://github.com/IoannaMarina/Docker-ELK-SSL-TLS-encryption/assets/56870509/af173833-92f9-4621-8ff4-9aa3903f57f8)" width="48">
 
 Prerequisites:
 - Docker and Docker Compose installed on your machine.
