@@ -24,4 +24,4 @@ This will start the Metricbeat container along with the ELK stack containers.
 
 Adjust the command based on your operating system and configuration.
 
-Note: Once the containers are up and running, you can access the Kibana user interface by opening a web browser and navigating to `https://192.168.100.45:5601`. Replace `192.168.100.45` with the actual IP address of the machine running the ELK stack.
+Note: Once the containers are up and running, you can access the Kibana user interface by opening a web browser and navigating to `https://XXX.XXX.XXX.XX:5601`. Replace `XXX.XXX.XXX.XX` with the actual IP address of the machine running the ELK stack.
